@@ -108,6 +108,20 @@ Customers were scored on three dimensions using NTILE(5) scoring:
 
 ---
 
+## Dashboard Preview
+
+### Overview
+![Overview](screenshots/Overview.PNG)
+
+### Customer Analysis
+![Customer Analysis](screenshots/Customer_analysis.PNG)
+
+### RFM Segments
+![RFM Segments](screenshots/rfm_segmetn.PNG)
+
+### Product Analysis
+![Product Analysis](screenshots/product_analysis.PNG)
+
 ## SQL Queries
 All SQL queries are available in `UK_Retail_Analysis.sql` with comments explaining the business reasoning behind each query.
 
